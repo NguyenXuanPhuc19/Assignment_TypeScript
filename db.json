@@ -1,0 +1,67 @@
+{
+  "users": [],
+  "products": [
+    {
+      "name": "Điện thoại OPPO Reno789",
+      "image": "http://res.cloudinary.com/dxvlhyxvc/image/upload/v1658367987/rjigztx9m6ice8yws2uu.jpg",
+      "originalPrice": "7.990.000",
+      "saleOffPrice": "8.990.000",
+      "category": "Điện thoại",
+      "feature": "Ấn tượng đầu tiên khi mà mình nhìn ngắm trực tiếp chiếc điện thoại OPPO Reno7 4G là về vẻ ngoài, với mặt lưng được làm từ thủy tinh hữu cơ cùng kiểu thiết kế giả da* và rất khó có thể nhận biết được nếu chưa cầm nắm trên tay, giúp thiết bị trở nên cực kỳ cao cấp.\n\nẤn tượng đầu tiên khi mà mình nhìn ngắm trực tiếp chiếc điện thoại OPPO Reno7 4G là về vẻ ngoài, với mặt lưng được làm từ thủy tinh hữu cơ cùng kiểu thiết kế giả da* và rất khó có thể nhận biết được nếu chưa cầm nắm trên tay, giúp thiết bị trở nên cực kỳ cao cấp.\nẤn tượng đầu tiên khi mà mình nhìn ngắm trực tiếp chiếc điện thoại OPPO Reno7 4G là về vẻ ngoài, với mặt lưng được làm từ thủy tinh hữu cơ cùng kiểu thiết kế giả da* và rất khó có thể nhận biết được nếu chưa cầm nắm trên tay, giúp thiết bị trở nên cực kỳ cao cấp.\n",
+      "description": "Ấn tượng đầu tiên khi mà mình nhìn ngắm trực tiếp chiếc điện thoại OPPO Reno7 4G là về vẻ ngoài, với mặt lưng được làm từ thủy tinh hữu cơ cùng kiểu thiết kế giả da* và rất khó có thể nhận biết được nếu chưa cầm nắm trên tay, giúp thiết bị trở nên cực kỳ cao cấp.\nẤn tượng đầu tiên khi mà mình nhìn ngắm trực tiếp chiếc điện thoại OPPO Reno7 4G là về vẻ ngoài, với mặt lưng được làm từ thủy tinh hữu cơ cùng kiểu thiết kế giả da* và rất khó có thể nhận biết được nếu chưa cầm nắm trên tay, giúp thiết bị trở nên cực kỳ cao cấp.\n",
+      "shortDescription": "hihihihiih",
+      "id": 4
+    },
+    {
+      "name": "Điện thoại Samsung Galaxy A33 5G 64GB",
+      "image": "http://res.cloudinary.com/dxvlhyxvc/image/upload/v1658368000/ostkdmy0f20xsu1vk8aa.jpg",
+      "originalPrice": "6.890.000",
+      "saleOffPrice": "8.490.000",
+      "category": "Điện thoại",
+      "feature": "Galaxy A33 có cạnh viền được chế tạo từ nhựa nhằm tối ưu trọng lượng, mang lại cảm giác cầm nắm nhẹ nhàng, các cạnh được bo cong mềm mại giúp mình sử dụng lâu dài mà không thấy xuất hiện tình trạng cấn tay.......",
+      "description": "Galaxy A33 có cạnh viền được chế tạo từ nhựa nhằm tối ưu trọng lượng, mang lại cảm giác cầm nắm nhẹ nhàng, các cạnh được bo cong mềm mại giúp mình sử dụng lâu dài mà không thấy xuất hiện tình trạng cấn tay........",
+      "shortDescription": "ádsadas",
+      "id": 5
+    },
+    {
+      "name": "Laptop Acer TravelMate B3 TMB311 31 C2HB N4020/4GB/128GB/Win11",
+      "image": "http://res.cloudinary.com/dxvlhyxvc/image/upload/v1658368012/sbewyxentakiwf8aoeou.jpg",
+      "originalPrice": "4.990.000",
+      "saleOffPrice": "9.990.000",
+      "category": "Laptop",
+      "feature": "Acer TravelMate B3 có trọng lượng máy chỉ 1.4 kg, độ dày 20.99 mm, thiết kế thanh lịch, đẹp mắt với lớp vỏ nhựa màu đen đơn giản kèm logo hãng tinh tế ở góc trái trên mặt lưng, dễ dàng cùng bạn xuất hiện ở mọi nơi......",
+      "description": "Acer TravelMate B3 có trọng lượng máy chỉ 1.4 kg, độ dày 20.99 mm, thiết kế thanh lịch, đẹp mắt với lớp vỏ nhựa màu đen đơn giản kèm logo hãng tinh tế ở góc trái trên mặt lưng, dễ dàng cùng bạn xuất hiện ở mọi nơi.......",
+      "shortDescription": "Acer TravelMate B3",
+      "id": 6
+    },
+    {
+      "name": "ádas121",
+      "image": "http://res.cloudinary.com/dv3vzmogk/image/upload/v1658384546/anhhtus/zbvtk1i7908qt67hhs2m.jpg",
+      "originalPrice": "23244444",
+      "saleOffPrice": "Điện thoại",
+      "category": "Laptop",
+      "feature": "sadadasdasádas12",
+      "description": "ádasdasda",
+      "shortDescription": "ádasdas12",
+      "id": 7
+    }
+  ],
+  "categoryProducts": [
+    {
+      "id": 1,
+      "name": "Laptop"
+    },
+    {
+      "id": 2,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 3,
+      "name": "Máy tính bảng"
+    },
+    {
+      "id": 4,
+      "name": "Âm thanh"
+    }
+  ]
+}
